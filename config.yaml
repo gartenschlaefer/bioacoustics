@@ -1,0 +1,10 @@
+# --
+# config
+#
+# bioacoustic
+
+# for birdnet
+birdnet:
+
+  # root path
+  test_file: './ignore/dataset_dcase2023_root/sample/2015-09-04_08-04-59_unit03_min0-1.wav'
